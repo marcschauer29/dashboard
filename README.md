@@ -103,3 +103,4 @@ new people that already use Horizon UI!
 📄 [Horizon UI License](https://www.horizon-ui.com/license?ref=readme-horizon-pro-next)
 # dashboard
 # dashboard
+# dashboard_v1.1
